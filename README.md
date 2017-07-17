@@ -8,3 +8,5 @@ MKCarouselView *carouseView = [[MKCarouselView alloc]initWithFrame:CGRectMake(0,
 carouseView.delegate = self;
     
 [self.view addSubview:carouseView];
+
+![image](https://github.com/MikeWang1010/MKCarouselView/blob/master/1.png)
